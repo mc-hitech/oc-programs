@@ -1,0 +1,11 @@
+# ignore everything
+/*
+
+## dirs
+!/etc/
+!/src/
+
+## files
+!/.gitignore
+!/programs.cfg
+!/README.md
