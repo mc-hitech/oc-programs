@@ -1,0 +1,8 @@
+[submodule "resources/openos"]
+	path = resources/openos
+	url = git@github.com:mc-hitech/openos.git
+	branch = mc-1.12
+[submodule "resources/components"]
+	path = resources/components
+	url = git@github.com:mc-hitech/openos-components.git
+	branch = mc-1.12

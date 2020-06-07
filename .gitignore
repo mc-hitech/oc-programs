@@ -3,8 +3,10 @@
 
 ## dirs
 !/src/
+!/resources/
 
 ## files
 !/.gitignore
+!/.gitmodules
 !/programs.cfg
 !/README.md
