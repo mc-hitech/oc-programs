@@ -2,8 +2,9 @@
 /*
 
 ## dirs
-!/src/
+!/hitech-ic2/
 !/resources/
+!/src/
 
 ## files
 !/.gitignore

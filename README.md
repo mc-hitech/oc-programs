@@ -1,5 +1,6 @@
 ```sh
 oppm register mc-hitech/programs
+oppm install hitech-ic2
 ```
 
 
