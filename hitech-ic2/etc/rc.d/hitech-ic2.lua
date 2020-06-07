@@ -11,5 +11,5 @@ function stop()
 end
 
 function status()
-    print ('status of hitech-ic2 is ' .. running and 'running' or 'not running')
+    print ('status of hitech-ic2 is ' .. (running and 'running' or 'not running'))
 end
