@@ -1,3 +1,5 @@
+local sides = require("sides")
+local component = require("component")
 local ic2 = {}
 
 ic2.Reactor = {
