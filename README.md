@@ -1,3 +1,9 @@
+```sh
+oppm register mc-hitech/programs
+```
+
+
+```sh
 # https://help.github.com/en/github/using-git/splitting-a-subfolder-out-into-a-new-repository
 
 git clone git@github.com:mc-hitech/openos.git .
@@ -14,3 +20,4 @@ git checkout up/master -b mc-1.12
 git filter-branch --prune-empty --subdirectory-filter components mc-1.12
 git push origin mc-1.12
 # git submodule add -b mc-1.12 git@github.com:mc-hitech/openos-components.git  resources/components
+```
